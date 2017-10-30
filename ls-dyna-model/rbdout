@@ -1,0 +1,2224 @@
+ CAAofS - Semestral Project - D.Bro¿yna                                  
+                         ls-dyna ls971d.74879 R6.1.0    date 06/26/2012
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=       1    time=   0.000000E+00
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.1000E-02
+ displacements:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=     353    time=   0.997826E-04
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0859E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.4069E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.4069E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=     706    time=   0.199849E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0718E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.8179E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.8179E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    1059    time=   0.299915E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0577E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.2288E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.2288E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    1412    time=   0.399981E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0436E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.6397E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.6397E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.4100E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    1765    time=   0.499827E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0296E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.0436E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3999E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  1.1681E+02  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.0436E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3999E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  1.1681E+02  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    2121    time=   0.599919E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0156E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.4411E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3932E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  5.4886E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.4411E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3932E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  5.4886E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    2479    time=   0.699997E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  4.0017E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.8327E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3879E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  5.0135E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.8327E-04  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3879E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  5.0135E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    2842    time=   0.799993E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9878E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1218E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3831E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.6899E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1218E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3831E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.6899E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    3212    time=   0.899739E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9740E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.2595E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3786E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.4959E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.2595E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3786E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.4959E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    3597    time=   0.999814E-03
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9603E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.3973E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3742E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.2703E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.3973E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3742E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.2703E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    4000    time=   0.110000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9465E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.5347E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3700E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.1744E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.5347E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3700E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.1744E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    4419    time=   0.119999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9328E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.6715E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3659E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.0286E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.6715E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3659E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  4.0286E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    4854    time=   0.129999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9192E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.8079E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3618E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.9391E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.8079E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3618E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.9391E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    5304    time=   0.139986E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.9056E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.9437E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3579E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.8553E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.9437E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3579E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.8553E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    5770    time=   0.149995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8921E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.0795E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3541E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.7761E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.0795E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3541E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.7761E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    6253    time=   0.159994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8785E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.2147E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3504E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.6898E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.2147E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3504E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.6898E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    6746    time=   0.169992E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8651E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.3495E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3467E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.6087E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.3495E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3467E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.6087E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    7246    time=   0.179991E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8516E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.4840E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3432E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5314E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.4840E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3432E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5314E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    7758    time=   0.189994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8382E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.6182E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3397E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4574E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.6182E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3397E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4574E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    8298    time=   0.199987E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8248E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.7519E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3363E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3852E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.7519E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3363E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3852E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    8877    time=   0.209985E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.8115E-02
+ displacements:    0.0000E+00  0.0000E+00 -2.8853E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3329E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3172E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -2.8853E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3329E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3172E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=    9503    time=   0.219990E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7982E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.0185E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3296E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2517E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.0185E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3296E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2517E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   10184    time=   0.229988E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7849E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.1513E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3264E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2126E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.1513E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3264E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2126E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   10933    time=   0.239994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7716E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.2838E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3232E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1644E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.2838E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3232E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1644E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   11765    time=   0.249999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7584E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.4160E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3201E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1175E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.4160E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3201E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1175E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   12702    time=   0.259993E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7452E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.5478E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3170E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0706E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.5478E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3170E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0706E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   13781    time=   0.270000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7321E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.6795E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3139E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0715E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.6795E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3139E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0715E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   14968    time=   0.279994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7189E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.8106E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3108E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0503E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.8106E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3108E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0503E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   16227    time=   0.289997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.7058E-02
+ displacements:    0.0000E+00  0.0000E+00 -3.9416E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3078E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0665E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -3.9416E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3078E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0665E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   17552    time=   0.299999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6928E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.0722E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3047E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1160E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.0722E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3047E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1160E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   18922    time=   0.310000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6797E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.2026E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3016E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0911E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.2026E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.3016E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0911E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   20306    time=   0.319995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6668E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.3325E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2985E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0585E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.3325E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2985E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0585E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   21708    time=   0.329999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6538E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.4623E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2955E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0103E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.4623E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2955E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0103E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   23126    time=   0.340000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6408E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.5917E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2925E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9803E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.5917E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2925E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9803E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   24558    time=   0.349998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6279E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.7207E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2895E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9198E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.7207E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2895E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9198E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   26004    time=   0.359995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6151E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.8495E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2867E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.8280E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.8495E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2867E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.8280E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   27466    time=   0.369999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.6022E-02
+ displacements:    0.0000E+00  0.0000E+00 -4.9781E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2839E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.7792E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -4.9781E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2839E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.7792E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   28943    time=   0.379999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5894E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.1063E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2811E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.8373E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.1063E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2811E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.8373E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   30438    time=   0.389996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5766E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.2343E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2782E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9008E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.2343E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2782E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9008E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   31945    time=   0.399996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5638E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.3619E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2753E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9660E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.3619E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2753E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9660E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   33451    time=   0.409996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5511E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.4893E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2723E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0577E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.4893E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2723E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0577E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   34842    time=   0.419999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5384E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.6164E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2692E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0416E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.6164E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2692E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0416E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   36200    time=   0.429995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5257E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.7431E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2661E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1339E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.7431E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2661E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1339E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   37559    time=   0.439993E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5130E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.8696E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2630E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1491E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.8696E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2630E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1491E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   38916    time=   0.449996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.5004E-02
+ displacements:    0.0000E+00  0.0000E+00 -5.9957E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2598E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1967E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -5.9957E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2598E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1967E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   40268    time=   0.459994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4878E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.1215E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2566E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1391E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.1215E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2566E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1391E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   41616    time=   0.469993E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4753E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.2470E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2535E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1414E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.2470E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2535E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1414E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   42962    time=   0.479999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4628E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.3723E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2504E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1194E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.3723E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2504E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1194E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   44303    time=   0.489998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4503E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.4972E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2473E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0088E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.4972E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2473E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0088E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   45640    time=   0.500000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4378E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.6218E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2444E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9719E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.6218E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2444E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9719E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   46973    time=   0.509997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4254E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.7460E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2414E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9794E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.7460E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2414E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9794E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   48305    time=   0.519997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4130E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.8700E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2384E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9357E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.8700E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2384E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9357E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   49637    time=   0.529998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.4006E-02
+ displacements:    0.0000E+00  0.0000E+00 -6.9937E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2355E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9569E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -6.9937E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2355E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9569E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   50969    time=   0.539999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3883E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.1171E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2325E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9042E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.1171E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2325E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  2.9042E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   52300    time=   0.549994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3760E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.2402E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2295E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0723E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.2402E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2295E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.0723E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   53632    time=   0.559997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3637E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.3630E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2264E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1368E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.3630E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2264E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1368E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   54964    time=   0.569997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3514E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.4855E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2233E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1216E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.4855E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2233E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1216E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   56297    time=   0.579997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3392E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.6077E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2201E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2065E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.6077E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2201E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2065E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   57631    time=   0.589997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3270E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.7295E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2169E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1736E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.7295E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2169E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1736E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   58967    time=   0.599995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3149E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.8510E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2137E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2063E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.8510E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2137E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2063E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   60311    time=   0.609997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.3028E-02
+ displacements:    0.0000E+00  0.0000E+00 -7.9723E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2105E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2088E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -7.9723E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2105E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2088E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   61669    time=   0.619993E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2907E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.0931E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2073E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2301E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.0931E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2073E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2301E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   63041    time=   0.629998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2786E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.2137E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2041E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2285E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.2137E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2041E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2285E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   64425    time=   0.639994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2666E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.3339E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2008E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2832E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.3339E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.2008E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2832E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   65826    time=   0.649997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2546E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.4539E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1975E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3617E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.4539E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1975E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3617E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   67248    time=   0.659994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2427E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.5734E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1941E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3763E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.5734E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1941E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3763E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   68692    time=   0.669997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2307E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.6927E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1907E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4141E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.6927E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1907E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4141E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   70150    time=   0.679998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2188E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.8116E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1873E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3969E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.8116E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1873E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3969E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   71625    time=   0.689997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.2070E-02
+ displacements:    0.0000E+00  0.0000E+00 -8.9302E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1839E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3594E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -8.9302E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1839E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3594E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   73118    time=   0.699996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1952E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.0484E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1804E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5024E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.0484E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1804E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5024E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   74628    time=   0.709998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1834E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.1663E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1769E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4818E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.1663E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1769E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4818E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   76152    time=   0.719994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1716E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.2837E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1735E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5015E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.2837E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1735E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5015E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   77691    time=   0.729999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1599E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.4010E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1699E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5285E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.4010E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1699E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5285E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   79241    time=   0.739995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1482E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.5177E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1664E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5620E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.5177E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1664E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5620E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   80805    time=   0.749999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1366E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.6343E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1628E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5928E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.6343E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1628E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5928E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   82383    time=   0.759997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1250E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.7503E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1592E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5560E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.7503E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1592E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5560E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   83973    time=   0.769998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1134E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.8661E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1557E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5196E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.8661E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1557E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5196E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   85576    time=   0.779995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.1019E-02
+ displacements:    0.0000E+00  0.0000E+00 -9.9814E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1521E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5380E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -9.9814E-03  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1521E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.5380E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   87190    time=   0.789996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0904E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0096E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1487E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4431E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0096E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1487E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4431E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   88812    time=   0.799997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0789E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0211E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1452E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4537E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0211E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1452E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4537E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   90441    time=   0.809996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0674E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0326E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1418E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4474E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0326E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1418E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4474E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   92076    time=   0.819994E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0560E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0440E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1384E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4157E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0440E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1384E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.4157E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   93716    time=   0.829997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0447E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0553E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1350E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3885E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0553E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1350E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3885E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   95359    time=   0.839998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0333E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0667E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1316E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3686E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0667E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1316E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3686E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   97004    time=   0.849995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0220E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0780E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1282E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3329E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0780E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1282E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3329E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=   98650    time=   0.859998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  3.0108E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.0892E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1249E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3208E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.0892E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1249E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3208E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  100296    time=   0.869999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9995E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1005E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1216E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3220E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1005E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1216E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.3220E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  101942    time=   0.879997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9883E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1117E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1183E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2859E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1117E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1183E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2859E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  103589    time=   0.889998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9772E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1228E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1150E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2822E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1228E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1150E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2822E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  105236    time=   0.899996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9660E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1340E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1117E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2567E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1340E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1117E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2567E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  106886    time=   0.910000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9549E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1451E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1085E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2402E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1451E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1085E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2402E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  108539    time=   0.919996E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9439E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1561E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1053E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2399E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1561E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1053E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2399E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  110203    time=   0.929997E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9328E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1672E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1021E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2295E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1672E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.1021E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2295E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  111885    time=   0.939995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9218E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1782E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0989E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1801E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1782E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0989E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1801E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  113582    time=   0.949995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.9109E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.1891E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0958E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2012E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.1891E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0958E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.2012E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  115291    time=   0.960000E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.8999E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.2001E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0926E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1398E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.2001E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0926E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1398E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  117009    time=   0.969999E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.8890E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.2110E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0894E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1610E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.2110E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0894E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1610E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  118733    time=   0.979995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.8781E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.2219E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0863E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1569E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.2219E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0863E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1569E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  120458    time=   0.989998E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.8673E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.2327E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0831E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1963E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.2327E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0831E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1963E+01  0.0000E+00  0.0000E+00  0.0000E+00
+1
+
+  r i g i d   b o d y   m o t i o n   a t  cycle=  122184    time=   0.999995E-02
+
+ rigid body       3
+   global             x           y           z          x-rot       y-rot       z-rot
+   coordinates:    2.5672E+03  1.2558E+03  2.8565E-02
+ displacements:    0.0000E+00  0.0000E+00 -1.2435E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0800E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1728E+01  0.0000E+00  0.0000E+00  0.0000E+00
+
+principal or user defined local coordinate direction vectors
+                     a           b           c
+     row 1     0.1000E+01     0.0000E+00     0.0000E+00
+     row 2     0.0000E+00     0.1000E+01     0.0000E+00
+     row 3     0.0000E+00     0.0000E+00     0.1000E+01
+
+ output in principal or user defined local coordinate directions
+                      a           b           c          a-rot       b-rot       c-rot
+ displacements:    0.0000E+00  0.0000E+00 -1.2435E-02  0.0000E+00  0.0000E+00  0.0000E+00
+    velocities:    0.0000E+00  0.0000E+00 -1.0800E+00  0.0000E+00  0.0000E+00  0.0000E+00
+ accelerations:    0.0000E+00  0.0000E+00  3.1728E+01  0.0000E+00  0.0000E+00  0.0000E+00

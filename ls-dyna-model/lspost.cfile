@@ -1,0 +1,46 @@
+$# LS-PrePost command file created by LS-PrePost 4.0 - 28Jan2013(19:00) -64bit-Window
+$# Created on Jun-19-2016 (17:26:01)
+open d3plot "E:\Studia\sem.VII\LSDYNA\honey_AL\k1 - KOCURmax\d3plot"
+ac
+back
+genselect clear
+blank selection
+genselect target element
+occfilter clear
+loadstate 1;
+loadquat 0.500000 0.500000 0.500000 0.500000;
+loadgrot 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 ;
+loadzoom 0.837112;
+loadeyepos 0.000000 0.000000 0.000000;
+loadupvect 0.000000 1.000000 0.000000;
+genselect element add region in 0.287069 0.820175 0.753448 0.771930
+blank selection
+fringe 8
+pfringe
+fringe 9
+pfringe
+zoomhere -0.262069 -0.017544 0.669689;
+zoomhere -0.262069 -0.017544 0.535751;
+zoomhere -0.262069 -0.017544 0.428601;
+zoomhere -0.262069 -0.017544 0.342881;
+zoomhere -0.262069 -0.017544 0.428601;
+zoomhere -0.262069 -0.017544 0.535751;
+zoomhere -0.262069 -0.017544 0.669689;
+zoomhere -0.262069 -0.017544 0.837111;
+zoomhere -0.262069 -0.017544 1.046389;
+zoomhere -0.262069 -0.017544 1.307986;
+zoomhere -0.149138 -0.076754 1.046389;
+anim forward
+fringe 17
+pfringe
+anim forward
+anim speed 30
+animatemode 1
+anim forward
+anim cycle
+anim speed 0
+anim speed 0
+anim cycle
+anim forward
+animatemode 0
+anim forward
