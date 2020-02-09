@@ -18,4 +18,6 @@ Data output from LS-DYNA in csv format.
 
 Calculations and plots of mean and ultimate crushing forces in honeycomb panels.
 
-![](honeycomb-fma.gif)
+<p align="center">
+  ![](honeycomb-fma.gif)
+</p>
