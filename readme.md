@@ -17,3 +17,7 @@ Data output from LS-DYNA in csv format.
 ### honey-crush.ipynb
 
 Calculations and plots of mean and ultimate crushing forces in honeycomb panels.
+
+<p align="center">
+  <img src="honeycomb-fma.gif"/>
+</p>
